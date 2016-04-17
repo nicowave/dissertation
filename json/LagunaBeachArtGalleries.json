@@ -1,0 +1,123 @@
+//LagunaBeachArtGalleriesJSON
+//Nicolas Roldos
+//June 16th 2015
+//
+//
+//
+
+
+
+{"lagunaArtGalleries":	[
+
+
+
+		{"fullAddressString": "570 South Coast Highway Laguna Beach, CA 92651",
+	"galleryName": "Townley Gallery", 
+	"phone":"(949) 715-1860"
+	},
+		{"fullAddressString": "550 South Coast Hwy. Suite 3 Laguna Beach, CA 92651",
+	"galleryName": "Hugo Rivera Gallery", 
+	"phone":"(949) 212-7875" 
+	},
+		{"fullAddressString": "540 South Coast Highway, Suite 106 Laguna Beach, CA 92651",
+	"galleryName": "AVRAN Art + Design Gallery", 
+	"phone":"(949) 494-0900"
+	},
+		{"fullAddressString":"540 S Coast Hwy # 110 Laguna Beach, CA 92651",
+	"galleryName": "McKibben Studios", 
+	"phone":"949-903-2537"
+	},
+		{"fullAddressString":"540 S Coast Hwy #112 Laguna Beach, CA 92651",  
+	"galleryName":"Pacific Edge Gallery",
+	"phone":"(949) 494-0491"
+	},
+		{"fullAddressString":"577 S. Coast Highway A-1 Laguna Beach, CA 92651",
+	"galleryName":"Las Laguna Gallery",
+	"phone":"(949) 667-1803"
+	},
+		{"fullAddressString":"502 South Coast Highway Laguna Beach, CA 92651",
+	"galleryName":"Village Gallery",
+	"phone":"(949) 494-3553"
+	},
+		{"fullAddressString":"611 South Coast Hwy Laguna Beach, CA 92651",
+	"galleryName":"LGOCA",
+	"phone":"(949) 715-9604"
+	},
+		{"fullAddressString":"509 S. Coast Highway Laguna Beach, CA 92651",
+	"galleryName":"Wyland Gallery",
+	"phone":"(949) 376-8000"
+	},
+		{"fullAddressString":"425 South Coast Highway Laguna Beach, CA 92651",
+	"galleryName":"Exclusive Collections",
+	"phone":"nil"
+	},
+		{"fullAddressString":"417 South Coast Hwy Laguna Beach, CA 92651",
+	"galleryName":"Miranda Galleries",
+	"phone":"(949) 497-4491"
+	},
+		{"fullAddressString":"384 A North Coast Highway Laguna Beach, CA 92651",
+	"galleryName":"Sandstone Gallery",
+	"phone":"(949) 497-6775"
+	},
+		{"fullAddressString":"384 B North Coast Highway Laguna Beach, CA 92651",
+	"galleryName":"Studio 7 Gallery North",
+	"phone":"(949) 497-1080"
+	},
+		{"fullAddressString":"380 S. Coast Highway Laguna Beach, CA 92651",
+	"galleryName":"Ruth Mayer Fine Art Gallery",
+	"phone":"(949) 494-8185"
+	},
+		{"fullAddressString":"374 North Coast Highway Laguna Beach, CA 92651",
+	"galleryName":"Quorum Art Gallery",
+	"phone":"(949) 494-4422"
+	},
+		{"fullAddressString":"372 North Coast Highway Laguna Beach, CA 92651",
+	"galleryName":"LU MARTIN GALLERIES",
+	"phone":"(949) 494-8074"
+	},
+		{"fullAddressString":"354 NORTH COAST HWY Laguna Beach, CA 92651",
+	"galleryName":"The George Gallery",
+	"phone":"(949) 715-4377"
+	},
+		{"fullAddressString":"346 NORTH COAST HIGHWAY Laguna Beach, CA 92651",
+	"galleryName":"JOSEPH WISE GALLERY",
+	"phone":"(949) 376-7902",
+	},
+		{"fullAddressString":"357 South Coast Highway Laguna Beach, CA 92651",
+	"galleryName":"Kush Fine Art Gallery",
+	"phone":"(949) 376-8017",
+	},
+		{"fullAddressString":"330 North Coast Highway Laguna Beach, CA 92651",
+	"galleryName":"Sue Greenwood Fine Art",
+	"phone":"(949) 494-0669",
+	},
+		{"fullAddressString":"326 North Coast Highway Laguna Beach, CA 92651",
+	"galleryName":"JoAnne Artman Gallery",
+	"phone":"(949) 510-5481",
+	},
+		{"fullAddressString":"225 Forest Ave. Laguna Beach, CA 92651",
+	"galleryName":"Laguna College of Art & Design Gallery",
+	"phone":"(949) 376-6000",
+	},
+		{"fullAddressString":"225 Forest Ave. Laguna Beach, CA 92651",
+	"galleryName":"LCAD of Forest",
+	"phone":"(949) 376-6000",
+	},
+		{"fullAddressString":"Laguna Beach Ca, 92651",
+	"galleryName":"First Thursdays Art Walk Laguna Beach",
+	"phone":"nil",
+	},
+		{"fullAddressString":"210 A Forest Ave Laguna Beach, CA 92651",
+	"galleryName":"Fingerhut Gallery",
+	"phone":"(949) 376-6410"
+	},
+		{"fullAddressString":"606 Laguna Canyon Road Laguna Beach, CA 92652",
+	"galleryName":"Laguna Playhouse",
+	"phone":"(949) 497-2787"}	
+
+ 
+]};
+
+
+
+
